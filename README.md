@@ -1,0 +1,2 @@
+# EfSamurai
+EntityFrameworkCoreProject
